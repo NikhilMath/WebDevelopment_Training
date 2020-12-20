@@ -1,7 +1,1 @@
-// NO TOUCHING! (please)
-const die1 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
-const die2 = Math.floor(Math.random() * 6) + 1; //random number from 1-6
-
-// YOUR CODE BELOW THIS LINE:
-let roll = 'You rolled a ' + die1 + ' and a ' + die2 + ". The sum is " die1 + die2;
-console.log(roll);
+const password = promt("please enter a new password")
