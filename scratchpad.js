@@ -1,1 +1,0 @@
-const password = promt("please enter a new password")
